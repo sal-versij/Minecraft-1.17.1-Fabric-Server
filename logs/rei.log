@@ -1,0 +1,23 @@
+[17:00:12] [Render thread/INFO] Config loaded.
+[17:00:12] [Render thread/INFO] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider CharmReiClientPlugin [charm] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider CharmReiServerPlugin [charm] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider PolymorphReiPlugin [polymorph] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider ReiRecipeLookup [wthit] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider RoughlyEnoughItemsIntegration [craftingtweaks] for REIPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider CharmReiServerPlugin [charm] for REIServerPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[17:00:12] [Render thread/INFO] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider CharmReiClientPlugin [charm] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider PolymorphReiPlugin [polymorph] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider ReiRecipeLookup [wthit] for REIClientPlugin
+[17:00:15] [Render thread/INFO] Registered plugin provider RoughlyEnoughItemsIntegration [craftingtweaks] for REIClientPlugin
